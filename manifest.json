@@ -21,7 +21,7 @@
   "host_permissions": ["<all_urls>"], 
   "web_accessible_resources": [
     {
-    "resources": ["bezos.jpg", "amazon.jpg", "amazon_transparent.png"], 
+    "resources": ["assets/bezos.jpg", "assets/amazon.jpg", "assets/amazon_transparent.png"], 
     "matches": ["<all_urls>"]
     }
   ]

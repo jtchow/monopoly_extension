@@ -1,6 +1,6 @@
-const imageUrl = chrome.runtime.getURL("./assets/bezos.jpg");
-const amazonUrl = chrome.runtime.getURL("./assets/amazon.jpg");
-const amazonTransparentUrl = chrome.runtime.getURL("./assets/amazon_transparent.png");
+const imageUrl = chrome.runtime.getURL("assets/bezos.jpg");
+const amazonUrl = chrome.runtime.getURL("assets/amazon.jpg");
+const amazonTransparentUrl = chrome.runtime.getURL("assets/amazon_transparent.png");
 
 const img = document.createElement("img");
 img.src = imageUrl;
