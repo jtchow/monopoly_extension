@@ -1,8 +1,7 @@
 {
   "manifest_version": 3,
-  "name": "Opacity",
+  "name": "opacity",
   "version": "1.0",
-  "description": "Calls attention to the assets owned by large corporations.",
   "icons": {"128": "assets/logo.png"},
   "content_scripts": [
     {
